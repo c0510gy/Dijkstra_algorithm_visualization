@@ -1,0 +1,14 @@
+c:\users\06281\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\bin\Debug\Dijkstra_algorithm.exe.config
+c:\users\06281\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\bin\Debug\Dijkstra_algorithm.exe
+c:\users\06281\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\bin\Debug\Dijkstra_algorithm.pdb
+c:\users\06281\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\obj\Debug\Dijkstra_algorithm.csprojResolveAssemblyReference.cache
+c:\users\06281\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\obj\Debug\Dijkstra_algorithm.csproj.CoreCompileInputs.cache
+c:\users\06281\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\obj\Debug\Dijkstra_algorithm.exe
+c:\users\06281\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\obj\Debug\Dijkstra_algorithm.pdb
+D:\Projects\Daijkstra_algorithm\Github\Dijkstra_algorithm\Dijkstra_algorithm\bin\Debug\Dijkstra_algorithm.exe.config
+D:\Projects\Daijkstra_algorithm\Github\Dijkstra_algorithm\Dijkstra_algorithm\bin\Debug\Dijkstra_algorithm.exe
+D:\Projects\Daijkstra_algorithm\Github\Dijkstra_algorithm\Dijkstra_algorithm\bin\Debug\Dijkstra_algorithm.pdb
+D:\Projects\Daijkstra_algorithm\Github\Dijkstra_algorithm\Dijkstra_algorithm\obj\Debug\Dijkstra_algorithm.csprojResolveAssemblyReference.cache
+D:\Projects\Daijkstra_algorithm\Github\Dijkstra_algorithm\Dijkstra_algorithm\obj\Debug\Dijkstra_algorithm.csproj.CoreCompileInputs.cache
+D:\Projects\Daijkstra_algorithm\Github\Dijkstra_algorithm\Dijkstra_algorithm\obj\Debug\Dijkstra_algorithm.exe
+D:\Projects\Daijkstra_algorithm\Github\Dijkstra_algorithm\Dijkstra_algorithm\obj\Debug\Dijkstra_algorithm.pdb
